@@ -8,6 +8,8 @@ Total rides, total drivers, and total fares are direct relationship. However, th
 
 [PyBer_Summary](https://github.com/Yunaka1269/PyBer_Analysis/blob/main/analysis/PyBer_Summary.PNG)
 
+[Total_Fares_By_City_Type](https://github.com/Yunaka1269/PyBer_Analysis/blob/main/analysis/Total_Fares_By_City_Type.png)
+
 ###Resources
   - Data Source: city_data.csv, ride_data.csv
   - Software: Jupyter Notebook 6.1.4
