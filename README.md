@@ -14,7 +14,7 @@ Total rides, total drivers, and total fares are direct relationship. However, th
 ##Summary:
 Business recommendations that I could offer to address any discrepancies among the city types are followings;
 
-1. create a detailed summary ride data includes but not limited to the time of day/day of the week/ride distance (or time) 
+1. analyze each ride data includes but not limited to the time of day/day of the week/ride distance (or duration)/location
 2. analyze rider's rating on drivers
 3. analyze rider's demographics (gender, age, number of passengers per ride, occupation) 
 
